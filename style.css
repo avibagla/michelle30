@@ -198,7 +198,7 @@ input {
 
 /* Subheading */
 h2 {
-  color: #2800ff;
+  color: #9B4F96;
 }
 
 /* Interactive image */
@@ -230,8 +230,8 @@ h2 {
   max-width: 100%;
   max-height: 100%;
   display: inline-block;
-  border: 10px solid blue;
-  box-shadow: 8px 8px yellow;
+  border: 10px solid #D60270;
+  box-shadow: 8px 8px #0038A8;
   border-radius: 5%;
   background: rgb(63, 94, 251);
   background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
